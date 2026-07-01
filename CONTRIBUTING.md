@@ -62,7 +62,7 @@ Here's a step-by-step guide on creating a pull request:
    - In your terminal, navigate to the cloned repository directory using `cd`:
 
      ```bash
-     cd AI-ML-Roadmap-from-scratch
+     cd AI-Roadmap-Zero2Hero
      ```
 
    - Use Git to add your modified files to the staging area:
