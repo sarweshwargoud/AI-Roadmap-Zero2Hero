@@ -47,7 +47,7 @@ Here's a step-by-step guide on creating a pull request:
    - Open a terminal and use the `git clone` command to clone your forked repository. Replace `<your-username>` with your GitHub username:
 
      ```bash
-     git clone https://github.com/<your-username>/AI-ML-Roadmap-from-scratch.git
+     git clone https://github.com/sarweshwargoud/AI-Roadmap-Zero2Hero.git
      ```
 
    - This creates a local copy of the repository on your machine.
@@ -89,7 +89,7 @@ Here's a step-by-step guide on creating a pull request:
      
 6. **Create a pull request:**
 
-   - Go to your forked repository on GitHub `https://github.com/<your-username>/AI-ML-Roadmap-from-scratch`.
+   - Go to your forked repository on GitHub `https://github.com/sarweshwargoud/AI-Roadmap-Zero2Hero.git`.
    - Click on the "Pull requests" tab.
    - Click the green "New pull request" button.
    - You'll see a comparison between your branch and the main branch of the original repository.
