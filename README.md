@@ -14,7 +14,6 @@ Use the modules in order or jump directly to the topics you need. Resources mark
 
 ## Contents
 
-
 **Learning Pathway Modules**
 - [Module 0](#module-0---before-you-start) - Before You Start
 - [Module 1](#module-1---the-math-behind-it-all) - The Math Behind It All
