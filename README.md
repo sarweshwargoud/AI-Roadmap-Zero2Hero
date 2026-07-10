@@ -4,7 +4,7 @@
 
 > Maintained and curated by `@sarweshwargoud`.
 
-## About this roadmap
+## About this roadmap.
 This roadmap is a curated guide for learning AI/ML from beginner to advanced levels using free courses, tutorials, and projects.
 
 ## How to use this roadmap
