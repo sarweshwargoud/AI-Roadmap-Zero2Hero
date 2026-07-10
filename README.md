@@ -2,7 +2,7 @@
 
 🧠 Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Science, Natural Language Processing, Reinforcement Learning and more with this complete 0 to 100 repository.
 
-> Maintained and curated by `@sarweshwargoud`.
+> Maintained and curated by `@sarweshwargoud`
 
 ## About this roadmap.
 This roadmap is a curated guide for learning AI/ML from beginner to advanced levels using free courses, tutorials, and projects.
